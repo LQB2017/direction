@@ -1,7 +1,13 @@
-# Headline
+# direction
 
-> An awesome project.
+>技术学习这条路很长，叉路口也很多。
 
-> demo
+# 计算机
 
-[[demo]]
+# Java
+
+# 框架
+
+# 数据库
+
+# 中间件
