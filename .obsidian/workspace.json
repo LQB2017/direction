@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/demo/demo.md",
+                "file": "docs/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/demo/demo.md",
+                "file": "docs/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/demo/demo.md",
+                "file": "docs/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/demo/demo.md"
+                "file": "docs/README.md"
               }
             }
           },
@@ -167,8 +167,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "edf04f6c19f82c36",
+  "active": "92dd63b1d415ef70",
   "lastOpenFiles": [
+    "docs/demo/demo.md",
     "docs/README.md"
   ]
 }
