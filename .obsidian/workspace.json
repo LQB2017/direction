@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "2a93a37bb4e6c6cc",
+        "id": "b437d09a5d3701dc",
         "type": "tabs",
         "children": [
           {
-            "id": "b8efef97ec602de9",
+            "id": "8e1945551fe00456",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
                 "file": "docs/README.md",
-                "staged": true
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92dd63b1d415ef70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/demo/demo.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/demo/demo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/demo/demo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/demo/demo.md"
+              }
             }
           },
           {
@@ -149,7 +167,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b8efef97ec602de9",
+  "active": "edf04f6c19f82c36",
   "lastOpenFiles": [
     "docs/README.md"
   ]
