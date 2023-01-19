@@ -37,7 +37,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/_sidebar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/_sidebar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/_sidebar.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,11 +168,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "edf04f6c19f82c36",
+  "active": "92dd63b1d415ef70",
   "lastOpenFiles": [
+    "docs/_sidebar.md",
     "docs/java/_sidebar.md",
     "docs/java/JVM.md",
-    "docs/_sidebar.md",
     "docs/README.md",
     "docs/demo/_sidebar.md",
     "docs/demo/demoS.md"
