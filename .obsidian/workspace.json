@@ -11,11 +11,10 @@
             "id": "b8efef97ec602de9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
                 "file": "docs/README.md",
-                "mode": "source",
-                "source": false
+                "staged": true
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,5 +150,7 @@
     }
   },
   "active": "b8efef97ec602de9",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "docs/README.md"
+  ]
 }
