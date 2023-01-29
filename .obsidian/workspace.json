@@ -4,24 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b437d09a5d3701dc",
+        "id": "df4afacdf6a09cc4",
         "type": "tabs",
         "children": [
           {
-            "id": "8e1945551fe00456",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "33bd058ff49ea21a",
+            "id": "d77459fa5a06c96e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/_sidebar.md",
+                "file": "docs/java/Java基础.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -29,20 +21,32 @@
             }
           },
           {
-            "id": "92dd63b1d415ef70",
+            "id": "490ee74f7f5788b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/_sidebar.md",
+                "file": "docs/java/Java基础.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "287171e1661b2a60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/java/Java虚拟机.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,14 +112,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/_sidebar.md",
+                "file": "docs/java/Java基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -125,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/_sidebar.md",
+                "file": "docs/java/Java基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/_sidebar.md"
+                "file": "docs/java/Java基础.md"
               }
             }
           },
@@ -161,7 +165,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -174,17 +178,21 @@
       "canvas:Create new canvas": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "92dd63b1d415ef70",
+  "active": "d77459fa5a06c96e",
   "lastOpenFiles": [
-    "docs/frame/Spring.md",
-    "docs/_sidebar.md",
+    "docs/java/Java虚拟机.md",
+    "docs/java/Java基础.md",
     "docs/README.md",
-    "docs/java/_sidebar.md",
-    "docs/java/JVM.md",
-    "docs/demo/_sidebar.md",
-    "docs/demo/demoS.md"
+    "docs/_media/direction.svg",
+    "docs/_sidebar.md",
+    "docs/_media/未命名.canvas",
+    "docs/_media/未命名.png",
+    "docs/_media/Drawing 2023-01-19 17.22.37..md",
+    "docs/_media/s.svg.md",
+    "Drawing 2023-01-19 16.51.43.excalidraw.md"
   ]
 }
