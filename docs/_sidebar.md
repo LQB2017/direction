@@ -1,7 +1,7 @@
 - **计算机**
 - **Java**
-	- [JVM](java/JVM)
+	- [Java基础](java/Java基础.md)
+	- [Java虚拟机](java/Java虚拟机.md)
 - **框架**
-	- [Spring](frame/spring)
 - **数据库**
 - **中间件**
