@@ -11,8 +11,13 @@
             "id": "892ecab3cb9dec78",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/数据库/并发控制.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "docs/数据库/并发控制.md",
+>>>>>>> main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +106,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "docs/数据库/并发控制.md",
+>>>>>>> main
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +131,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< HEAD
               "state": {}
+=======
+              "state": {
+                "file": "docs/数据库/并发控制.md"
+              }
+>>>>>>> main
             }
           },
           {
@@ -150,8 +169,13 @@
   },
   "active": "892ecab3cb9dec78",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "docs/数据库/并发控制.md",
     "docs/数据库/事务.md",
+=======
+    "docs/数据库/事务.md",
+    "docs/数据库/并发控制.md",
+>>>>>>> main
     "事务.md",
     "docs/数据库/数据同步.md",
     "docs/数据库/数据库恢复.md",
