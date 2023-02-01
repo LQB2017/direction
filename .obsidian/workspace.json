@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ee2de8189e1e6dec",
+        "id": "146aef52a5f04a7b",
         "type": "tabs",
         "children": [
           {
-            "id": "a96fa4bbd7e4331d",
+            "id": "892ecab3cb9dec78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/java/Java虚拟机.md",
+                "file": "docs/数据库/并发控制.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/java/Java虚拟机.md",
+                "file": "docs/数据库/并发控制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/java/Java虚拟机.md",
+                "file": "docs/数据库/并发控制.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/java/Java虚拟机.md"
+                "file": "docs/数据库/并发控制.md"
               }
             }
           },
@@ -143,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,17 +157,17 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "a96fa4bbd7e4331d",
+  "active": "892ecab3cb9dec78",
   "lastOpenFiles": [
-    "docs/java/Java基础.md",
-    "docs/java/Java虚拟机.md",
+    "docs/数据库/事务.md",
+    "docs/数据库/并发控制.md",
+    "事务.md",
+    "docs/数据库/数据同步.md",
+    "docs/数据库/数据库恢复.md",
+    "Pasted image 20230201125940.png",
     "docs/README.md",
-    "docs/_media/direction.svg",
-    "docs/_sidebar.md",
-    "docs/_media/未命名.canvas",
-    "docs/_media/未命名.png",
-    "docs/_media/Drawing 2023-01-19 17.22.37..md",
-    "docs/_media/s.svg.md",
-    "Drawing 2023-01-19 16.51.43.excalidraw.md"
+    "docs/_media/数仓分层.md",
+    "docs/计算机/demoS.md",
+    "docs/大数据/数据仓库.md"
   ]
 }
