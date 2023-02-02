@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "146aef52a5f04a7b",
+        "id": "7e262abeb34a2b4f",
         "type": "tabs",
         "children": [
           {
-            "id": "892ecab3cb9dec78",
+            "id": "5098d7604067a3e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/数据库/并发控制.md",
+                "file": "docs/java/Java基础.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/数据库/并发控制.md",
+                "file": "docs/java/Java基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/数据库/并发控制.md",
+                "file": "docs/java/Java基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/数据库/并发控制.md"
+                "file": "docs/java/Java基础.md"
               }
             }
           },
@@ -157,17 +157,17 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "892ecab3cb9dec78",
+  "active": "5098d7604067a3e6",
   "lastOpenFiles": [
-    "docs/数据库/事务.md",
     "docs/数据库/并发控制.md",
+    "docs/java/Java基础.md",
+    "docs/README.md",
+    "docs/数据库/事务.md",
     "事务.md",
     "docs/数据库/数据同步.md",
     "docs/数据库/数据库恢复.md",
     "Pasted image 20230201125940.png",
-    "docs/README.md",
     "docs/_media/数仓分层.md",
-    "docs/计算机/demoS.md",
-    "docs/大数据/数据仓库.md"
+    "docs/计算机/demoS.md"
   ]
 }
