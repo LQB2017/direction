@@ -3,5 +3,6 @@
   "promptDelete": false,
   "newLinkFormat": "shortest",
   "showUnsupportedFiles": true,
-  "useMarkdownLinks": false
+  "useMarkdownLinks": false,
+  "newFileLocation": "current"
 }
